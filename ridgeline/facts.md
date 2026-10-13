@@ -1,6 +1,6 @@
 # Ridgeline Veterinary Clinic: fact sheet
 
-Fictional business for the C2C apprenticeship. Every fact on a Ridgeline page must come from this file. If a fact is not here, ask; never guess.
+Fictional business for the Code2College Development Program. Every fact on a Ridgeline page must come from this file. If a fact is not here, ask; never guess.
 
 * **Owner:** Dr. Elena Park, owner and lead veterinarian
 * **Clinic:** small animal clinic, two veterinarians and four staff

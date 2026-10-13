@@ -1,7 +1,7 @@
-# My apprenticeship
+# My development program
 
-This is your workspace for the Code2College apprenticeship. You made it from
-the C2C `my-apprenticeship` template.
+This is your workspace for the Code2College Development Program. You made it from
+the C2C `my-development-program` template.
 
 ## Three rules for this repo
 

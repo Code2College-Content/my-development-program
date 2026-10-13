@@ -1,5 +1,5 @@
 {
-  "name": "My apprenticeship",
+  "name": "My development program",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "customizations": {
     "vscode": {
