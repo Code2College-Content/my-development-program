@@ -1,0 +1,24 @@
+{
+  "name": "My apprenticeship",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot-chat",
+        "ms-vscode.live-server"
+      ]
+    },
+    "codespaces": {
+      "openFiles": [
+        "README.md",
+        "index.html"
+      ]
+    }
+  },
+  "forwardPorts": [3000],
+  "portsAttributes": {
+    "3000": {
+      "label": "Live Preview"
+    }
+  }
+}
