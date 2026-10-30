@@ -20,7 +20,7 @@ the C2C `my-development-program` template.
 | `ridgeline/facts.md` | Everything Dr. Park told us about Ridgeline Veterinary Clinic. Every fact on a Ridgeline page must come from this file. |
 | `ridgeline/hours.html` | Empty for now. You build Dr. Park's Hours and Prices page here in Session 4. |
 | `.github/copilot-instructions.md` | House rules that GitHub Copilot reads before it answers you. |
-| `.devcontainer/devcontainer.json` | Sets up your Codespace with GitHub Copilot and Live Preview. |
+| `.devcontainer/devcontainer.json` | Sets up a Codespace with GitHub Copilot and Live Preview. On your own laptop you install those in VS Code yourself. |
 
 ## Working rules
 
@@ -29,4 +29,4 @@ the C2C `my-development-program` template.
 * Check before you keep.
 * Write a Check Note for every build: Prompt I used / What it did / What I checked / What I fixed.
 * Use Ask mode for questions. Use Agent mode only to change files.
-* Stop your Codespace when you leave.
+* When you leave, save, commit and sync. In a Codespace, also stop it. On your own laptop there is nothing to stop.
